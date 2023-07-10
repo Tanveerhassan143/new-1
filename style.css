@@ -3,6 +3,11 @@ h1{
 color: rgb(35, 125, 128);
 background-color: rgb(168, 136, 96);
 }
+h2{
+    color: blue;
+    background-color: aliceblue;
+}
+
 b{
     color: rgb(96, 55, 2);
 font-size: x-large;
@@ -16,5 +21,24 @@ color: chartreuse;
 background-color: antiquewhite;
 font-size: 25px;
 
-
+}
+p{
+font-size: x-large;
+color: rgb(25, 27, 26);
+}
+.name{
+    color: rgb(5, 16, 135);
+    background-color: aliceblue;
+}
+.A{
+    color: blueviolet;
+    background-color: azure;
+}
+.B{
+    color: black;
+    background-color: rgb(244, 240, 240);
+}
+.C{
+    color: brown;
+    background-color: cornsilk;
 }
